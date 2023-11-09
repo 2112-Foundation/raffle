@@ -1,0 +1,21 @@
+{
+  "description": "ZKVerse Breakpoint Merch - Joint Tee",
+  "name": "Joint Tee",
+  "image": "https://i.ibb.co/8PC9YBf/Joint-Tshirt.png",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "DARKLDJ9AtJFX8E9GCdeujfkPjVWUMjxBNm1uqeATiWQ",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://i.ibb.co/8PC9YBf/Joint-Tshirt.png",
+        "type": "image/gif"}
+    ]
+  },
+  "seller_fee_basis_points": 0,
+  "symbol": "JOINT"
+}
