@@ -1,0 +1,21 @@
+{
+  "description": "ZKVerse Breakpoint Merch - Skeleton Tee",
+  "name": "Skeleton Tee",
+  "image": "https://i.ibb.co/28WqQb7/Skeleton-Tshirt.png",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "DARKLDJ9AtJFX8E9GCdeujfkPjVWUMjxBNm1uqeATiWQ",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://i.ibb.co/28WqQb7/Skeleton-Tshirt.png",
+        "type": "image/gif"}
+    ]
+  },
+  "seller_fee_basis_points": 0,
+  "symbol": "SKELETON"
+}
